@@ -1,0 +1,13 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "vmeduri1/codespaces-practice-GitHub-CoPilot": {
+            "permissions": {
+              "issues": "write-all"
+            }
+          }
+        }
+      }
+    }
+  }
